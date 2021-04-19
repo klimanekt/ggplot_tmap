@@ -1,0 +1,30 @@
+# Wykorzystywane pakiety {-}
+
+Szczegółowe informacje na temat pakietu **ggplot2** mozna znaleźć w dokumentacji pakietu na stronie internetowej [https://cran.r-project.org/web/packages/ggplot2/index.html](https://cran.r-project.org/web/packages/ggplot2/index.html).
+
+Szczegółowe informacje na temat pakietu **tmap** mozna znaleźć w dokumentacji pakietu na stronie internetowej [https://cran.r-project.org/web/packages/tmap/index.html](https://cran.r-project.org/web/packages/ggplot2/index.html).
+
+
+W celu stworzenia map tematycznych na dzisiejszych zajęciach wykorzystywane będą także następujące pakiety:
+
+
+
+Instalacja pakietów
+```{r eval=FALSE}
+install.packages("readxl")
+install.packages("sf")
+install.packages("dplyr")
+install.packages("RColorBrewer")
+install.packages("ggplot2")
+install.packages('tmap')
+```
+
+Wczytanie bibliotek
+```{r eval=FALSE}
+library("readxl")
+library("sf")
+library("dplyr")
+library("RColorBrewer")
+library("ggplot2")
+library('tmap')
+```

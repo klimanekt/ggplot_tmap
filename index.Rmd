@@ -1,9 +1,13 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Mapy tematyczne w R: ggplot2, tmap"
+author: 
+- name: "Tomasz Klimanek"
+  affiliation: "Katedra Statystyki, Uniwersytet Ekonomiczny w Poznaniu"
+  email: tomasz.klimanek@ue.poznan.pl
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Wstęp {-}
 
+Na poprzednich zajęciach przedstawione zostały metody tworzenia map tematycznych za pomocą funkcji *plot* z pakietu **base**. Celem niniejszych zajeć będzie kontynuacja problematyki tworzenia map tematycznych, ale za pomocą pakietów **ggplot2** oraz **tmap**.

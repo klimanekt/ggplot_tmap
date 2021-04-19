@@ -1,0 +1,4 @@
+# Tworzenie prostego kartogramu - zadanie 2 {-}
+
+
+Sporządź kartogram z zadania 1 [Tworzenie prostego kartogramu - zadanie 1][] wykorzystując pakiet **tmap**.
